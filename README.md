@@ -45,10 +45,7 @@ Python • Pandas • NetworkX • TextBlob • Text2Emotion • Statsmodels (Pr
 |--------|--------------|
 | `notebooks/` | Jupyter notebook containing data analysis and modeling code |
 | `reports/` | Final white paper and presentation slides |
-| `visuals/` | Network graphs, histograms, and word clouds |
-| `src/` | Helper scripts for data processing |
-| `docs/` | Data schema and notes |
-| `data/` | (Not uploaded) Raw and processed datasets |
+
 
 ---
 
